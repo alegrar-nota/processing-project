@@ -2,6 +2,7 @@
 
 # Función size
 
+```java
 // size tamaño de la ventana
 void setup(){
   //size(width,height);
@@ -13,4 +14,5 @@ void setup(){
   //size(640,480,PDF); // guardar en PDF. Hay que importar desde la biblioteca PDF para poder crear
   fullScreen();
 }
+```
 
