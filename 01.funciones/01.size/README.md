@@ -10,9 +10,20 @@ void setup(){
   //size(640,480,P3D); // se modifica el motor a 3D
   //size(640,480,FX2D); // renderizador de alta calidad
   //size(640,480,PDF); // guardar en PDF. Hay que importar desde la biblioteca PDF para poder crear
-  //fullScreen();
 }
 ```
-![1.Funcion Size](imgs/01.funcion_size.png)
+![1.Funcion size](imgs/01.funcion_size.png)
 
-![2.Funcion Size](imgs/02.funcion_size.png)
+![2.Funcion size](imgs/02.funcion_size.png)
+
+## Función fullScreen - toda la pantalla
+
+```java
+// size tamaño de la ventana
+void setup(){
+  fullScreen();
+}
+```
+
+![3.Funcion fullScreen](imgs/03.funcion_fullScreen.png)
+
