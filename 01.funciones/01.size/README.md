@@ -13,4 +13,6 @@ void setup(){
   //fullScreen();
 }
 ```
+![1.Funcion Size](imgs/01.funcion_size.png)
 
+![2.Funcion Size](imgs/02.funcion_size.png)
