@@ -29,7 +29,8 @@ void setup(){
 ```java
 // size tamaño de la ventana
 void setup(){
-  //size(640,480,P2D); // por defecto, sin pasar como parámetro sería igual. renderizador 2D
+  //size(640,480,JAVA2D); // valor por defecto de Processing con el motor JAVA2D sin no se indica el tercer parámetro
+  //size(640,480,P2D); // con renderizador 2D
   size(640,480,P3D); // se modifica el motor a 3D
   //size(640,480,FX2D); // renderizador de alta calidad
 }
