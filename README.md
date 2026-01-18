@@ -2,6 +2,6 @@
 
 # Funciones Processing
 1. Size
-2. Line
-3. Point
+2. Point
+3. Line
 4. Triangle
