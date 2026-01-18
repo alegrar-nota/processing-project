@@ -1,4 +1,4 @@
-# Función size
+# Función size - tamaño de la pantalla (presentación)
 
 ```java
 // size tamaño de la ventana
